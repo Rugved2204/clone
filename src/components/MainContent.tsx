@@ -8,7 +8,7 @@ const MainContent = () => {
       </div>
       <div className="flex justify-center bg-white p-4 rounded shadow-sm">
         <img 
-          src="DBU_Banner.jpg" 
+          src="/DBU_Banner.jpg" 
           alt="DBU Banner" 
           className="h-28"
         />
